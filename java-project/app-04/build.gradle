@@ -46,3 +46,6 @@ tasks.named('test') {
 run {
     standardInput = System.in
 }
+
+// gradle run -q --console=plain
+
